@@ -33,22 +33,22 @@ a:hover
     color: rgba(72, 177, 171, 0.795);
     text-shadow: none;
 }
-.boards
+#boards
 {
-    color: rgba(114, 172, 196, 0.699);
-    text-shadow: -1px 1px rgb(189, 84, 163);
-    font-size: 22px;
-    
-    margin-right: 100px;
-    margin-left: 100px;
-    
+    white-space: nowrap; 
 }
 
 .boardsContent
 {
-    color: teal;
+    font-size: 20px;
+
+    color: rgb(13, 172, 172);
+    text-shadow: -1px .5px rgb(135, 26, 133);
     margin-right: 100px;
     margin-left: 100px;
+
+    display: inline-block;
+    
 
     text-decoration-line: wavy;
 }
@@ -57,6 +57,11 @@ a:hover
 {
     margin-right: auto;
     margin-left: auto;
+}
+
+#boardsTitle
+{
+    color: aqua;
 }
 
 #jaxxlogo
