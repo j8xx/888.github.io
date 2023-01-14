@@ -33,10 +33,6 @@ a:hover
     color: rgba(72, 177, 171, 0.795);
     text-shadow: none;
 }
-#boards
-{
-    white-space: nowrap; 
-}
 
 .boardsContent
 {
@@ -77,4 +73,5 @@ a:hover
     height: 45px;
 
     margin-top: 40px;
+    margin-bottom: 20px;
 }
