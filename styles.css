@@ -34,7 +34,7 @@ a:hover
     text-shadow: none;
 }
 
-.boardsContent
+.boardstextContent
 {
     font-size: 23px;
 
@@ -47,6 +47,13 @@ a:hover
     
 
     text-decoration-line: wavy;
+}
+
+.boardsimgContent
+{
+    margin-top: 20px;
+    margin-left: 38px;
+    margin-right: 38px;
 }
 
 .center
@@ -67,6 +74,13 @@ a:hover
 
     margin-bottom: 25px;
 }
+
+#planetlogo
+{
+    width: 200px;
+    height: 200px;
+}
+
 #boardLogo
 {
     width: 125px;
