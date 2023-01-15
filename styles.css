@@ -125,3 +125,9 @@ a:hover
     text-align: center;
     font-size: 22px;
 }
+
+#contactDescription
+{
+    font-size: 25px;
+    color: blueviolet;
+}
