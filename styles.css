@@ -1,6 +1,6 @@
 body
 {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     background-image: url('pics/space.png');
     text-align: center;
 }
@@ -78,6 +78,18 @@ a:hover
     margin-left: auto;
 }
 
+.servicesText
+{
+    font-size: 25px;
+    color: rgb(119, 158, 230);
+    text-shadow: -2px .5px rgb(76, 34, 131);
+}
+
+.orderedListText
+{
+    color: rgb(103, 228, 151);
+}
+
 #boardsTitle
 {
     color: aqua;
@@ -105,4 +117,11 @@ a:hover
 
     margin-top: 40px;
     margin-bottom: 22px;
+}
+
+#servicesOrderedList
+{
+    display: inline-block;
+    text-align: center;
+    font-size: 22px;
 }
