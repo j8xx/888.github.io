@@ -34,14 +34,30 @@ a:hover
     text-shadow: none;
 }
 
+.boardstextTitle
+{
+    font-size: 25px;
+
+    color: rgb(13, 172, 172);
+    text-shadow: -1px .5px rgb(135, 26, 133);
+    margin-right: 7%;
+    margin-left: 7%;
+    margin-bottom: 5px;
+
+    display: inline-block;
+    
+
+    text-decoration-line: wavy;
+}
+
 .boardstextContent
 {
     font-size: 23px;
 
-    color: rgb(13, 172, 172);
+    color: rgb(103, 228, 151);
     text-shadow: -1px .5px rgb(135, 26, 133);
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 6%;
+    margin-left: 8%;
 
     display: inline-block;
     
@@ -52,8 +68,8 @@ a:hover
 .boardsimgContent
 {
     margin-top: 20px;
-    margin-left: 38px;
-    margin-right: 38px;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 .center
