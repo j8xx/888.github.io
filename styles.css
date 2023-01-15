@@ -50,21 +50,6 @@ a:hover
     text-decoration-line: wavy;
 }
 
-.boardstextContent
-{
-    font-size: 23px;
-
-    color: rgb(103, 228, 151);
-    text-shadow: -1px .5px rgb(135, 26, 133);
-    margin-right: 6%;
-    margin-left: 8%;
-
-    display: inline-block;
-    
-
-    text-decoration-line: wavy;
-}
-
 .boardsimgContent
 {
     margin-top: 20px;
