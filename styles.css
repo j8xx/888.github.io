@@ -82,19 +82,6 @@ a:hover
     background-color: rgba(105, 28, 100, 0.882);
 }
 
-.projectsBar :a
-{
-    float: left;
-    width: 20%;
-    text-align: center;
-    color: rgb(82, 221, 198);
-    font-size: 18px;
-    padding-bottom: 5px;
-    transition-duration: .3s;
-
-    text-shadow: 2px .5px rgb(0, 0, 0);
-}
-
 .projectsBar :hover
 {
     background-color: rgb(202, 67, 204);
