@@ -87,11 +87,6 @@ a:hover
     background-color: rgb(202, 67, 204);
 }
 
-.gamesBar
-{
-    padding-bottom: 5px; width: 20%; background-image: linear-gradient(rgba(47, 83, 215, 0.75), rgb(16, 23, 112, .75);
-}
-
 #boardsTitle
 {
     color: aqua;
