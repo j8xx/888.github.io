@@ -82,7 +82,7 @@ a:hover
     background-color: rgba(105, 28, 100, 0.882);
 }
 
-.projectsBar a
+.projectsBar :a
 {
     float: left;
     width: 20%;
