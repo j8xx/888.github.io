@@ -7,10 +7,17 @@ body
 
 p
 {
-    color: rgba(37, 160, 154, 0.726);
-    text-shadow: -1px 1px plum;
+    color: rgb(234, 140, 234);
+    text-shadow: -2px 1px rgba(68, 206, 176, 0.726);
     font-size: 23px;
     margin: 10px;
+}
+
+b
+{
+    color: aliceblue;
+    text-shadow: -1px -1px purple;
+    font-size: 30px;
 }
 
 th
@@ -126,5 +133,5 @@ a:hover
 #contactDescription
 {
     font-size: 25px;
-    color: blueviolet;
+    color: rgb(229, 8, 185);
 }
